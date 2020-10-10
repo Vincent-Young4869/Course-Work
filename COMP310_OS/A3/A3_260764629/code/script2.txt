@@ -1,0 +1,5 @@
+set y 20
+print y
+set y 30
+print y
+quit

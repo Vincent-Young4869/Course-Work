@@ -1,0 +1,8 @@
+help
+set x 10 2
+print x
+set y 20
+set z ob
+print z
+run testfile.txt
+quit
